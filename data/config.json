@@ -1,0 +1,125 @@
+{
+  "communityName": "GDG SGGS",
+  "communityLocation": {
+    "country": "India",
+    "city": "Nanded"
+  },
+  "communityDescription": "GDG SGGS is a student-led community focused on empowering and connecting developers through Google technologies. We provide opportunities for learning, networking, and hands-on workshops to foster innovation and growth in the tech ecosystem",
+  "communityLinks": {
+    "page": "https://gdg.community.dev/gdg-on-campus-shri-guru-gobind-singhji-institute-of-engineering-and-technology-nanded-india/",
+    "website": "https://gdg.community.dev/gdg-on-campus-shri-guru-gobind-singhji-institute-of-engineering-and-technology-nanded-india/",
+    "instagram": "https://www.instagram.com/gdg_sggs_",
+    "linkedin": "https://www.linkedin.com/company/gdg-sggs"
+    
+  },
+  "stats": [
+      {
+        "name": "Speakers",
+        "value": "23+",
+        "color": "#C3ECF6",
+        "image": "img/common/blue.png"
+      },
+      {
+        "name": "Participants",
+        "value": "200+",
+        "color": "#F8D8D8",
+        "image": "img/common/pink.png"
+      },
+      {
+        "name": "Sessions",
+        "value": "10+",
+        "color": "#CCF6C5",
+        "image": "img/common/green.png"
+      },
+      {
+        "name": "Workshops",
+        "value": "2+",
+        "color": "#FFE7A5",
+        "image": "img/common/yellow.png"
+      }
+  ],
+  "whatToExpect": [
+      {
+        "title": "Hackathons",
+        "description": "Test your skills in hackathons and coding challenges, pushing your limits while working on real-world projects and competing for exciting prizes!"
+      },
+      {
+        "title": "Workshops",
+        "description": "Join expert-led sessions on Android, Machine Learning, Web Tech, and Cloud Computing to sharpen skills with new tools and frameworks."
+      },
+      {
+        "title": "Connections",
+        "description": "Explore valuable networking opportunities to connect with peers, exchange ideas, collaborate on projects, and expand your career prospects."
+      }
+    ],
+  "eventInfo": {
+    "name": "DevFest London 2024",
+    "date": "Nov 16, 2024",
+    "time": "9 AM - 5 PM IST",
+    "venue": {
+      "address": "SGGS-Nanded",
+      "map_link": "https://maps.app.goo.gl/3vTjgroZEGWCfLxc7"
+    },
+    "registeration": {
+      "link": "https://gdg.community.dev/",
+      "end_date": "2024-10-25"
+    },
+    "description": {
+      "short": "",
+      "long": "An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc.An annual event hosted by the Google Developers Group across the world to bring the technology closer to the developers. It is an all day developer conference where we aim to focus on multiple technologies through lightning talks, sessions, workshops, etc."
+    },
+    "stats": [
+      {
+        "name": "Projects", 
+        "value": "5+",
+        "color": "#C3ECF6",
+        "image": "img/common/blue.png"
+      },
+      {
+        "name": "Participants",
+        "value": "1000+",
+        "color": "#F8D8D8",
+        "image": "img/common/pink.png"
+      },
+      {
+        "name": "Hackathons",
+        "value": "3",
+        "color": "#CCF6C5",
+        "image": "img/common/green.png"
+      },
+      {
+        "name": "Workshops",
+        "value": "4+",
+        "color": "#FFE7A5",
+        "image": "img/common/yellow.png"
+      }
+    ],
+    
+    "pastDevFest": {
+      "summery": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente amet asperiores unde. Adipisci nobis ipsum fuga amet? Ut, iusto tenetur quisquam neque consectetur impedit magnam unde harum a mollitia possimus? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores laborum ut praesentium architecto a. Recusandae neque deserunt saepe mollitia quibusdam a nihil dicta in, totam hic molestias eaque. Dolores, nisi.",
+      "images": ["image-1.png", "image-2.png", "image-3.png"],
+      "stats": [
+        {
+          "name": "Speakers",
+          "value": "23+"
+        },
+        {
+          "name": "Participants",
+          "value": "200+"
+        },
+        {
+          "name": "Sessions",
+          "value": "10+"
+        },
+        {
+          "name": "Workshops",
+          "value": "2+"
+        }
+      ]
+    }
+  },
+  "seo": {
+    "keywords": "GDG, DevFest, Google, DevFest",
+    "hostUrl": "https://devfest-app-2024.web.app"
+  }
+}
