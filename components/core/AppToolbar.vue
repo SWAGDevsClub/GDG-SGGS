@@ -10,22 +10,14 @@
       class="d-md-none d-lg-none d-sm-flex d-flex"
       @click="drawerAction"
     ></v-app-bar-nav-icon>
-    <NuxtLink to="/" class="px-2" style="text-decoration: none; color: black">
-      <div class="d-flex">
+    <NuxtLink to="/" class="px-2 py-2" style="text-decoration: none; color: black">
+      <div class="d-flex" style="align-items: center;">
         <v-img
           width="120"
           alt="logo"
-          src="/assets/img/devfest-logo.svg"
+          src="/assets/img/GDG-Logo.png"
           class="mr-2"
         ></v-img>
-        <v-chip
-          style="display: inline; background-color: white"
-          variant="outlined"
-          color="black"
-          size="small"
-          class="align-center pt-1"
-          >{{ mainData.communityLocation.city }}</v-chip
-        >
       </div>
     </NuxtLink>
 
@@ -38,8 +30,18 @@
           style="text-transform: capitalize"
           :to="item.path"
           class="mx-1"
+          @click="handleClick(item.name)"
           v-if="item.visible"
-          >{{ item.name }}</v-btn
+          >{{ item.name }}
+          <template v-if="item.name==='Events' && showAnimation">
+                    <iframe
+                      style="padding-bottom: 5% !important; border: none;"
+                      width="20px"
+                      height="30px"
+                      src="https://lottie.host/embed/ca16656a-68c5-4658-b4ac-a0e5805c7154/BfeO7czldI.lottie"
+                    ></iframe>
+            </template>
+          </v-btn
         >
       </template>
     </div>
@@ -75,12 +77,20 @@ import { useDisplay } from "vuetify";
 const { mainData, navbarData } = useJSONData();
 const sidebar = useSideBar();
 const { width, mobile } = useDisplay();
-
+const showAnimation = ref(true);
 const screenWidth = ref(width);
 
 const drawerAction = () => {
   sidebar.value = !sidebar.value;
 };
+const handleClick = (name)=>{
+  if(name==="Events"){
+    showAnimation.value = true;
+  }
+  else{
+    showAnimation.value = false;
+  }
+}
 </script>
 
 <style scoped>

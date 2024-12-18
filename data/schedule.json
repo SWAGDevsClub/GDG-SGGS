@@ -1,27 +1,38 @@
 [
     {
         "day": "1",
-        "date": "Oct 23",
+        "year": "2024",
         "schedule": [
             {
-                "startTime": "03:30",
-                "endTime": "04:00",
+                "Month": "Feburary",
+                "date": "19th",
                 "session": 1001
             },
             {
-                "startTime": "04:00",
-                "endTime": "04:40",
+                "Month": "September",
+                "date": "24th",
                 "session": 1002
             },
             {
-                "startTime": "04:50",
-                "endTime": "05:30",
+                "Month": "October",
+                "date": "13th",
                 "session": 1003
             },
             {
-                "startTime": "05:40",
-                "endTime": "06:00",
+                "Month": "December",
+                "date": "15th",
                 "session": 1004
+            }
+        ]
+    },
+    {
+        "day": "1",
+        "year": "2025",
+        "schedule": [
+            {
+                "Month": "Feburary",
+                "date": "21th",
+                "session": 1005
             }
         ]
     }

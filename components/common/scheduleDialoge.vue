@@ -7,16 +7,9 @@
         v-bind="activatorProps"
       >
 
-        <p class="mb-0 h1-subheading google-font">{{ props.data.title }}</p>
-
-        <span v-for="(itemp, indexp) in speakers" :key="indexp">
-          <v-chip pill class="mt-2 mr-2">
-            <v-avatar start>
-              <img :src="getImgUrl(itemp.image)" style="width: 100%" />
-            </v-avatar>
-            {{ itemp.name }}
-          </v-chip>
-        </span>
+        <p class="mb-0 h1-subheading google-font">{{ props.data.title }}
+          <iframe v-if="props.data.title === 'HackFusion 2.0'" style="border: none;" width="25px" height="30px" src="https://lottie.host/embed/ca16656a-68c5-4658-b4ac-a0e5805c7154/BfeO7czldI.lottie"></iframe>
+        </p>
 
         <v-chip v-if="props.data.track" small class="mt-2">{{
           props.data.track
@@ -54,8 +47,6 @@
                   ><v-icon small>mdi-clock-outline</v-icon>
                   {{ props.data.time }}</span
                 >
-
-                <span>{{ props.data.timeDuration }} Min</span>
               </p>
 
               <p
@@ -88,14 +79,6 @@
                 Presentation
               </v-chip>
               <v-container fluid class="px-0 mx-0">
-                <span v-for="(itemp, indexp) in speakers" :key="indexp">
-                  <v-chip pill class="mt-2 mr-2">
-                    <v-avatar start>
-                      <img :src="getImgUrl(itemp.image)" style="width: 100%" />
-                    </v-avatar>
-                    {{ itemp.name }}
-                  </v-chip>
-                </span>
               </v-container>
             </v-col>
           </v-row>

@@ -2,17 +2,14 @@
   <v-container fluid>
     <v-row class="mb-0">
       <v-col md="12" sm="12" cols="12" class="text-center">
-        <h1>Last Year at DevFest</h1>
-        <p>
-          {{ mainData.eventInfo.pastDevFest.summery }}
-        </p>
+        <h1>Last Year at HackFusion</h1>
         <v-img
           style="max-height: 300px; border: 1.5px solid black"
           rounded="xl"
           alt="image"
           cover
           class="mt-6"
-          :src="`/img/past-devfest/${mainData.eventInfo.pastDevFest.images[0]}`"
+          :src="`/img/Hackfusion/${mainData.eventInfo.pastDevFest.images[0]}`"
         ></v-img>
       </v-col>
       <v-col md="12" sm="12" cols="12">
@@ -55,7 +52,7 @@
           rounded="xl"
           cover
           alt="image"
-          :src="`/img/past-devfest/${mainData.eventInfo.pastDevFest.images[1]}`"
+          :src="`/img/Hackfusion/${mainData.eventInfo.pastDevFest.images[1]}`"
           style="border: 1.5px solid black"
         ></v-img>
       </v-col>
@@ -65,7 +62,7 @@
           rounded="xl"
           cover
           alt="image"
-          :src="`/img/past-devfest/${mainData.eventInfo.pastDevFest.images[2]}`"
+          :src="`/img/Hackfusion/${mainData.eventInfo.pastDevFest.images[2]}`"
           style="border: 1.5px solid black"
         ></v-img>
       </v-col>

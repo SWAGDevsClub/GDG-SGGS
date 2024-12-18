@@ -2,13 +2,13 @@
     {
         "id": "1001",
         "slide": "",
-        "title": "Session 1",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "HackFusion",
+        "description": "HackFusion is our flagship national-level hackathon, bringing together top tech talent for an intense 36-hour coding marathon. Participants collaborate in teams to tackle real-world challenges, creating innovative solutions under the guidance of industry experts. This high-energy event is more than just a competition—it's a platform for innovation, networking, and driving meaningful technological change.",
+        "track": "National Level Hackathon",
         "link": "https://www.youtube.com/embed/SYQa0pqoPWA?si=PTsrvHcgN23ffbYJ",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "36 Hrs",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "date": "Feb 19th, 2024",
         "timeDuration": "40",
         "speakers": [
             101
@@ -17,13 +17,13 @@
     {
         "id": "1002",
         "slide": "",
-        "title": "Session 2",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "Info Session",
+        "description": "The Open House Meet served as a platform for members of the SWAG Developer's Club and Google Developer's Club to connect with new First Year students. The event provided an opportunity for students to explore their interests in technology and network with seniors interested in coding and software development.",
+        "track": "Open House Meet",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "06:00 PM to 07:00 PM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "date": "Aug 24th, 2024",
         "timeDuration": "40",
         "speakers": [
             101
@@ -32,28 +32,43 @@
     {
         "id": "1003",
         "slide": "",
-        "title": "Session 3",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "Introduction to Open Source and Build with AI",
+        "description": "The Version Control, Open Source Contribution, and AI Workshop was successfully conducted with enthusiastic participation from students and professionals. The workshop was organized by GDG on Campus: SGGSIE&T and focused on enhancing the participants' understanding of essential topics such as Version Control, Open Source Development, and the revolutionary potential of Artificial Intelligence.The event consisted of several hands-on sessions, discussions, and Quiz opportunities, making it a highly interactive and engaging experience for all attendees.","track": "Open Source & AI",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "11:00 AM to 05:00 PM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "date": "Oct 13th, 2024",
         "timeDuration": "40",
         "speakers": [
-            102, 101
+            102,
+            101
         ]
     },
     {
         "id": "1004",
         "slide": "",
-        "title": "Session 4",
-        "description": "In this session, we will help you get kickstarted with web, starting from what is the current state of web in India, challenges and opportunities, Roadmap, Google's web technologies, getting started with e-commerce application. We will also see, how we can extend the functionalities of a web-app with Authentication, Database and Hosting using Firebase. You will also learn frequently asked interview questions.",
-        "track": "Web",
+        "title": "Tech Winter Break GDG On Campus",
+        "description": "The Android Development Workshop was successfully conducted with enthusiastic participation from students and professionals. The workshop was organized by SWAG Developers Club and GDG on Campus SGGSIE&T focused on enhancing the participants' understanding of essential topics such as Android Development. Hands-on experience in building Android apps. Learn the fundamental of Android Studio and Kotlin/Java. Designing UI WITH XML. Tips and tricks from industry experts. A chance to collaborate with like-minded peers. The event consisted of several hands-on sessions, discussions, and Quiz opportunities, making it a highly interactive and engaging experience for all attendees",
+        "track": "Android",
         "link": "",
-        "time": "06:00 PM to 06:35 PM (IST)",
+        "time": "11:00 AM to 05:00 PM (IST)",
         "format": "Day 1",
-        "date": "Oct 22, 2021",
+        "date": "Dec 15th, 2024",
+        "timeDuration": "40",
+        "speakers": [
+            102
+        ]
+    },
+    {
+        "id": "1005",
+        "slide": "",
+        "title": "HackFusion 2.0",
+        "description": "Coming Soon...",
+        "track": "National Level Hackathon",
+        "link": "",
+        "time": "--/--/----",
+        "format": "Day 1",
+        "date": "Feb 19th, 2025",
         "timeDuration": "40",
         "speakers": [
             102

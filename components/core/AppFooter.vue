@@ -8,7 +8,7 @@
       <v-col md="2" cols="12">
         <h2 style="color: white">{{ mainData.communityName }}</h2>
         <a
-          href="https://github.com/oss-labs/"
+          href="#"
           style="text-decoration: none; color: white"
           ></a
         >

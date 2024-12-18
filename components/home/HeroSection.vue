@@ -3,7 +3,7 @@
     <v-row justify-center align="center">
       <v-col md="6" sm="6" cols="12">
         <h1 class="responsive-h1 my-4">
-          GDG <br />
+          <p class="d-flex flex-row">GDG <h6 style="font-size:medium; color:cornflowerblue;" class="mt-2 ms-2">On-Campus</h6></p> 
           SGGS-Nanded 
         </h1>
         <p class="" :style="{ maxWidth: '90%' }">

@@ -99,7 +99,7 @@
         "./imports"
       ],
       "#app-manifest": [
-        "./manifest/meta/dev.json"
+        "./manifest/meta/dev"
       ],
       "#build": [
         "."
@@ -151,7 +151,6 @@
   "exclude": [
     "../dist",
     "../node_modules",
-    "../../../node_modules",
     "../node_modules/nuxt/node_modules",
     "../node_modules/nuxt-gtag/runtime/server",
     "../node_modules/@nuxt/devtools/runtime/server",

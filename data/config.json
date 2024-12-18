@@ -1,5 +1,5 @@
 {
-  "communityName": "GDG SGGS",
+  "communityName": "GDG  SGGS",
   "communityLocation": {
     "country": "India",
     "city": "Nanded"
@@ -97,23 +97,23 @@
     
     "pastDevFest": {
       "summery": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente amet asperiores unde. Adipisci nobis ipsum fuga amet? Ut, iusto tenetur quisquam neque consectetur impedit magnam unde harum a mollitia possimus? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores laborum ut praesentium architecto a. Recusandae neque deserunt saepe mollitia quibusdam a nihil dicta in, totam hic molestias eaque. Dolores, nisi.",
-      "images": ["image-1.png", "image-2.png", "image-3.png"],
+      "images": ["image-1.jpeg", "image-2.jpeg", "image-3.jpeg"],
       "stats": [
         {
-          "name": "Speakers",
-          "value": "23+"
+          "name": "Teams",
+          "value": "30+"
         },
         {
           "name": "Participants",
-          "value": "200+"
+          "value": "150+"
         },
         {
-          "name": "Sessions",
-          "value": "10+"
+          "name": "Hours",
+          "value": "36"
         },
         {
-          "name": "Workshops",
-          "value": "2+"
+          "name": "Problem Statement",
+          "value": "1"
         }
       ]
     }
