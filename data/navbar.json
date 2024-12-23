@@ -6,7 +6,7 @@
   },
   {
     "name": "Events",
-    "path": "/agenda",
+    "path": "/events",
     "visible": true
   },
 

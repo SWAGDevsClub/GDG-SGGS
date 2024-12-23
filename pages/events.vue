@@ -21,15 +21,6 @@
                   @click="handleTabClick(item.year, index)"
                 >
                   {{ item.year }}
-                  <!-- Conditionally render the red dot animation based on year and active tab -->
-                  <template v-if="item.year === '2025' && showAnimation">
-                    <iframe
-                      style="margin-bottom: 30% !important; border: none;"
-                      width="25px"
-                      height="30px"
-                      src="https://lottie.host/embed/ca16656a-68c5-4658-b4ac-a0e5805c7154/BfeO7czldI.lottie"
-                    ></iframe>
-                  </template>
                 </v-tab>
               </v-tabs>
             </v-toolbar>
@@ -48,7 +39,6 @@
 
 <script setup>
 const model = ref(null); // Track the active tab index
-const showAnimation = ref(true); // Flag to control the visibility of the animation
 
 const { mainData, scheduleData } = useJSONData();
 
@@ -58,7 +48,7 @@ definePageMeta({
 
 useSeoMeta({
   contentType: "text/html; charset=utf-8",
-  title: "Agenda - " + mainData.eventInfo.name + " | " + mainData.communityName,
+  title: "Events - " + mainData.communityName,
   description: mainData.eventInfo.description.short,
   keywords: mainData.seo.keywords,
   ogLocale: 'en_US',
@@ -66,26 +56,18 @@ useSeoMeta({
   creator: "OSS Labs",
   viewport: "width=device-width, initial-scale=1.0",
   ogTitle:
-    "Agenda - " + mainData.eventInfo.name + " | " + mainData.communityName,
+    "Events - " + mainData.communityName,
   ogDescription: mainData.eventInfo.description.short,
   ogImage: `${mainData.seo.hostUrl}/thumbnail.png?auto=format&fit=crop&frame=1&h=512&w=1024`,
   ogUrl: mainData.seo.hostUrl,
   ogType: "website",
   twitterTitle:
-    "Agenda - " + mainData.eventInfo.name + " | " + mainData.communityName,
+    "Events - " + mainData.communityName,
   twitterDescription: mainData.eventInfo.description.short,
   twitterImage: `${mainData.seo.hostUrl}thumbnail.png?auto=format&fit=crop&frame=1&h=512&w=1024`,
   twitterCard: "summary_large_image",
 });
 
-const handleTabClick = (year, index) => {
-  
-  if (year === '2025') {
-    showAnimation.value = false; 
-  } else {
-    showAnimation.value = true; 
-  }
-};
 </script>
 
 <style scoped>

@@ -5,11 +5,7 @@
         <v-col md="12">
           <h1>Team</h1>
           <p>
-            Our mission is to equip our community members with practical skills,
-            enabling them to communicate their insights and drive innovative
-            solutions effectively. Whatever your challenge, these leaders on the
-            front line of transformation, innovation, and exploration helped
-            solve it with you.
+            Our mission is to empower student developers by enhancing their technical skills and fostering collaboration on innovative projects. At GDG on Campus SGGS, we create a space for growth, where members connect, learn, and solve real-world problems together, preparing for the tech challenges of tomorrow.
           </p>
         </v-col>
       </v-row>
@@ -30,20 +26,20 @@ definePageMeta({
 
 useSeoMeta({
   contentType: "text/html; charset=utf-8",
-  title: "Team - " + mainData.eventInfo.name + " | " + mainData.communityName,
+  title: "Team - " + mainData.communityName,
   description: mainData.eventInfo.description.short,
   keywords: mainData.seo.keywords,
   ogLocale:'en_US',
   author: "OSS Labs",
   creator: "OSS Labs",
   viewport: "width=device-width, initial-scale=1.0",
-  ogTitle: "Team - " + mainData.eventInfo.name + " | " + mainData.communityName,
+  ogTitle: "Team - " + mainData.communityName,
   ogDescription: mainData.eventInfo.description.short,
   ogImage: `${mainData.seo.hostUrl}/thumbnail.png?auto=format&fit=crop&frame=1&h=512&w=1024`,
   ogUrl: mainData.seo.hostUrl,
   ogType: "website",
   twitterTitle:
-    "Team - " + mainData.eventInfo.name + " | " + mainData.communityName,
+    "Team - " + mainData.communityName,
   twitterDescription: mainData.eventInfo.description.short,
   twitterImage: `${mainData.seo.hostUrl}thumbnail.png?auto=format&fit=crop&frame=1&h=512&w=1024`,
   twitterCard: "summary_large_image",

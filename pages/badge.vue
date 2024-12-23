@@ -5,7 +5,7 @@
         <v-col md="6" sm="7" cols="12">
           <h1>Badge</h1>
           <p class="mt-2">
-            Upload an image and generate a personalized badge with the DevFest
+            Upload an image and generate a personalized badge with the GDG
             frame.
           </p>
 

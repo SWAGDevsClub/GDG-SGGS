@@ -1,9 +1,9 @@
 [
   {
     "id": "6001",
-    "name": "Vrijraj Singh",
+    "name": "Gajanan Palepwad",
     "company": {
-      "name": "OSS Labs Community",
+      "name": "GDG on Campus Organiser",
       "designation": "Developer"
     },
     "community_title": "Google Developer Expert for Firebase",
@@ -19,9 +19,9 @@
   },
   {
     "id": "6002",
-    "name": "Shivam Singh",
+    "name": "Vikramaditya Khupse",
     "company": {
-      "name": "OSS Labs Community",
+      "name": "GDG on Campus Co-organiser",
       "designation": "Designer"
     },
     "community_title": "Designer",

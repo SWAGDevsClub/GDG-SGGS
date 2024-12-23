@@ -11,9 +11,9 @@
       @click="drawerAction"
     ></v-app-bar-nav-icon>
     <NuxtLink to="/" class="px-2 py-2" style="text-decoration: none; color: black">
-      <div class="d-flex" style="align-items: center;">
+      <div class="d-flex" style="align-items: center; padding-top: 4%">
         <v-img
-          width="120"
+          width="150"
           alt="logo"
           src="/assets/img/GDG-Logo.png"
           class="mr-2"
