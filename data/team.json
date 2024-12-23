@@ -1,49 +1,46 @@
 [
   {
     "id": "6001",
-    "name": "Gajanan Palepwad",
+    "name": "Gajanan",
     "company": {
-      "name": "GDG on Campus Organiser",
-      "designation": "Developer"
+      "name": "GDG on Campus SGGSIE&T",
+      "designation": "Organiser"
     },
-    "community_title": "Google Developer Expert for Firebase",
-    "image": "vrijraj.jpg",
-    "bio": "Vrijraj is a dedicated CTO at agprop and a passionate advocate for community engagement. He actively contributes to the TechFerment community and holds the esteemed title of Google Developers Expert for Firebase and Web Technologies. With a wealth of experience, he has conducted over 300 talks and workshops, sharing his knowledge with various communities. Vrijraj's expertise lies in Web development, Firebase, Google Cloud Platform, and UI/UX Design. He possesses a strong drive for learning new technologies and leveraging them to build innovative solutions. Alongside his professional endeavors, Vrijraj takes pleasure in mentoring individuals and nurturing communities. During his leisure time, he indulges in his love for food and enjoys watching YouTube videos.",
+    "image": "gajanan.png",
+    "bio": "At the helm of the Google Developers Group on Campus, I'm at the forefront of fostering innovation and supporting developer communities. My journey through tech leadership was paved at SWAG Developer's Club, where I championed events that bolstered practical tech skills among peers. As a final-year Computer Science student at Shri Guru Gobind Singhji Institute of Engineering and Technology, my academic insights complement my practical endeavors. My Android development proficiency is instrumental in crafting mobile solutions that resonate with users.",
     "social": {
-      "linkedin": "https://www.linkedin.com/in/vrijrajsingh/",
-      "twitter": "https://twitter.com/SVrijraj",
-      "github": "https://github.com/vrijraj",
-      "web": "https://vrijraj.xyz/"
+      "linkedin": "https://www.linkedin.com/in/gajananpalepwad/",
+      "twitter": "https://x.com/GN4k_p",
+      "github": "https://github.com/GajananPalepwad",
+      "web": "https://gajanan.click/"
+    },
+    "type": "Core"
+},
+  {
+    "id": "6002",
+    "name": "Vikramaditya",
+    "company": {
+      "name": "GDG on Campus SGGSIE&T",
+      "designation": "Co-organiser"
+    },
+    "image": "vikram.jpg",
+    "bio": "I’m Vikramaditya, a developer who loves computers and technology. I enjoy learning how things work, handling computers, and building amazing projects. I don’t focus on just one field—I like working on everything, from coding apps and solving problems to exploring new tools and ideas.  My goal is to become the greatest developer and create something truly impactful. For me, technology is not just work; it’s my passion. Aiming to lead, inspire, and drive transformative change.",
+    "social": {
+      "linkedin": "www.linkedin.com/in/vikramaditya-khupse-04838a259",
+      "twitter": "",
+      "github": "https://github.com/Phantom-VK",
+      "web": ""
     },
     "type": "Core"
   },
   {
-    "id": "6002",
-    "name": "Vikramaditya Khupse",
+    "id": "6003",
+    "name": "Sk Noman",
     "company": {
-      "name": "GDG on Campus Co-organiser",
-      "designation": "Designer"
-    },
-    "community_title": "Designer",
-    "image": "shivam.png",
-    "bio": "A problem solver who uses his creative talents to tackle design-related challenges. With a keen eye for detail and an innate understanding of infographics, visual design, and UI/UX. I am able to transform complex information into visually compelling and user-friendly designs. Whether it includes working on a brand-new project or revamping an existing design.",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/s-shivam/",
-      "twitter": "https://twitter.com/Shivamc504?t=Vc1j2jeHDLkS1-cSM1LSkg&s=09",
-      "github": "",
-      "web": "https://shivam.live/"
-    },
-    "type": "Core"
-  },
-  {
-    "id": "6002",
-    "name": "Sandali Singh",
-    "company": {
-      "name": "OSS Labs Community",
-      "designation": "Developer"
-    },
-    "community_title": "Developer",
-    "image": "sandali.jpg",
+      "name": "GDG on Campus SGGSIE&T",
+      "designation": "Alumini Management Lead"
+    },  
+    "image": "noman.JPG",
     "bio": "I'm Sandali singh, a Software Developer, fueled by curiosity and driven by innovation,with a passion for full-stack development. Equipped with a solid foundation in computer science and hands-on experience in various programming languages and technologies, I am eager to embark on my journey as a full-stack developer. My academic background has honed my problem-solving skills and instilled in me a keen attention to detail, both of which are essential traits in the world of software development. With a strong desire to learn and grow in this dynamic field, I am excited to contribute my creativity and technical expertise to building innovative and user-friendly solutions.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/sandali-singh/",
@@ -51,24 +48,126 @@
       "github": "https://github.com/sandali-singh",
       "web": "https://sandali.xyz/"
     },
-    "type": "Volunteer"
+    "type": "Core"
+  },
+  {
+    "id": "6004",
+    "name": "Pranav",
+    "company": {
+      "name": "GDG on Campus SGGSIE&T",
+      "designation": "Website Lead"
+    },
+    "image": "Pranav.jpg",
+    "bio": "Hey !! I'm Pranav, a passionate software developer. I have always found myself with great enuthusiam for new technology and innoavtion. With strong foundation in computer science and a good experience of full stack development through various project, I am ready to apply it and make a impact. Problem solving , better software and never ending innovation is what I look forward to !",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/pranavdhumale",
+      "twitter": "",
+      "github": "https://github.com/Pranav-2812",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id":"6005",
+    "name": "Adnan",
+    "company": {
+      "name": "GDG on Campus SGGSIE&T",
+      "designation": "Content Lead"
+    },
+    "image": "adnan.jpg",
+    "bio": "I’m Adnan, I’m a curious and passionate developer who loves technology and innovation. I enjoy figuring out how things work, building cool projects, and tackling tough problems. Whether it’s web development, programming, or diving into machine learning, I’m always excited to learn and explore new ideas. For me, coding isn’t just something I do—it’s something I genuinely enjoy. My goal is to create meaningful solutions, inspire others, and make a real impact through technology.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/adnan-khan-6a74851b8/",
+      "twitter": "",
+      "github": "https://github.com/adnankhan171",
+      "web": ""
+    },
+    "type": "Core"
+  },
+
+  {
+    "id":"6007",
+    "name": "Hanmant",
+    "company": {
+      "name": "GDG on Campus SGGSIE&T",
+      "designation": "Event Head"
+    },
+    "image": "harry.jpeg",
+    "bio": "I do code so, I'm a Coder. Programming for me is more than just writing lines of code—it's about building impactful solutions, innovating processes, and crafting experiences that make a difference. Every day, I code with purpose, curiosity, and a vision to leave my mark on the ever-evolving tech landscape.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/hanumanth-harry-handewar-4132511b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "twitter": "",
+      "github": "https://github.com/harry-the-captain",
+      "web": ""
+    },
+    "type":"Core"
+  },
+  {
+    "id":"6008",
+    "name": "Asmi Shetty",
+    "company": {
+      "name": "GDG on Campus SGGSIE&T",
+      "designation": "Content Co-Lead"
+    },
+    "image": "vrijraj.jpg",
+    "bio": "I’m Asmi, I’m a curious and passionate developer who loves technology and innovation. I enjoy figuring out how things work, building cool projects, and tackling tough problems. Whether it’s web development, programming, or diving into machine learning, I’m always excited to learn and explore new ideas. For me, coding isn’t just something I do—it’s something I genuinely enjoy. My goal is to create meaningful solutions, inspire others, and make a real impact through technology.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/asmi-shetty?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "twitter": "",
+      "github": "https://github.com/Asmi-Shetty",
+      "web": ""
+    },
+    "type": "Core"
+  },
+ 
+  {
+    "id":"6006",
+    "name": "Yash",
+    "company": {
+      "name": "GDG on Campus SGGSIE&T",
+      "designation": "Media Co-lead"
+    },
+    "image": "yash.jpeg",
+    "bio": "I am Yash Bhashkar Waghmare, a Computer Science Engineering student and Media Co-Lead at Google Developer Group on campus SGGSIE&T. I am passionate about blending technology with creativity to drive innovation, inspire others, and make a meaningful impact..",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/yash-waghmare-b2b875288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "twitter": "",
+      "github": "https://github.com/yashwaghmare123",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
+    "id":6009,
+    "name": " Khushwant",
+    "company": {
+      "name": "GDG on Campus SGGSIE&T",
+      "designation": "GDG Member"
+    },
+    "image": "happy.jpg",
+    "bio": "I am Khushwant Singh Mahajan, a passionate web developer and tech enthusiast from Shri Guru Gobind Singhji Institute of Engineering and Technology. With a knack for creating dynamic and user-friendly websites, Khushwant combines creativity with technical expertise. As a member of the SWAG and GDG clubs, he actively contributes to organizing workshops and events on cutting-edge technologies. Dedicated to continuous learning, he constantly explores new trends in web and app development.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/khushwant-singh-mahajan-311a27331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "twitter": "https://x.com/Khush_1916?t=ng9LRez3MofaKUObT7xq4A&s=09",
+      "github": "https://github.com/Khush1916"
+    },
+    "type": "Core"
   },
   {
     "id": "6002",
-    "name": "Full Name",
-    "company": {
-      "name": "OSS Labs Community",
-      "designation": "Developer"
-    },
-    "community_title": "Developer",
-    "image": "",
-    "bio": "Full Name and Bio",
-    "social": {
-      "linkedin": "https://www.linkedin.com/in/",
-      "twitter": "https://twitter.com",
-      "github": "https://github.com",
-      "web": "https://example.com"
-    },
-    "type": "Volunteer"
+  "name": "Yash",
+  "company": {
+    "name": "GDG on Campus SGGSIE&T",
+    "designation": "Member"
+  },
+  "image": "yashfy.jpeg",
+  "bio": "Yash Mhasagar is a first-year engineering student with a passion for innovation and problem-solving. With a keen interest in technology, Yash excels in learning and implementing new concepts, particularly in programming and embedded systems. In addition to his technical pursuits, he is involved in organizing coding events such as Google Solutions HackFusion, demonstrating his community-building skills. Yash’s vision is to grow as a developer. When not immersed in academics, he enjoys exploring gaming and nurturing his curiosity for innovative ideas.",
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/yash-mhasagar-046983331/",
+    "twitter": "https://x.com/eyepatchxy",
+    "github": "https://github.com/Eyepatchxy",
+    "web": ""
+  },
+  "type": "Core"
   }
 ]

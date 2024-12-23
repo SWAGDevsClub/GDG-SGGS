@@ -5,8 +5,9 @@
         v-bind="activatorProps"
         style="cursor: pointer"
         class="text-center image-container"
+        
       >
-        <v-img alt="frame" class="frame" src="/assets/img/frame.png"></v-img>
+        <v-img alt="frame" class="frame" src="/assets/img/frame.png" ></v-img>
         <v-img
           class="avatar"
           aspect-ratio="1"
