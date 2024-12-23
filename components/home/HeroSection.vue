@@ -7,7 +7,7 @@
             GDG
           <h6 style="font-size: medium; color: cornflowerblue;" class="mt-2 ms-2">On-Campus</h6>
           </p>
-          SGGS-Nanded
+          SGGSIE&T-Nanded
         </h1>
 
         <p class="" :style="{ maxWidth: '90%' }">

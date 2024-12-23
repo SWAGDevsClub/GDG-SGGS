@@ -6,7 +6,7 @@
         <a href="https://gdg.community.dev/gdg-on-campus-shri-guru-gobind-singhji-institute-of-engineering-and-technology-nanded-india/" 
         target="_blank"
         style="text-decoration: none; color: white">
-          <v-img width="150" alt="logo" src="/assets/img/GDG-Logo.png" class="mr-2"></v-img>
+          <v-img width="200" alt="logo" src="/assets/img/GDG-LOGO-Hztl.svg" class="mr-2"></v-img>
         </a>
       </v-col>
       <v-col md="10" cols="12">
@@ -16,9 +16,6 @@
               <a href="https://developers.google.com/community/gdg" target="_blank" rel="noreferrer" aria-label="link"
                 class="grey--text text--darken-3 mr-6 google-font" style="text-decoration: none; color: white">About GDG
                 Program</a>
-              <br class="hidden-md-and-up" />
-
-
               <br class="hidden-md-and-up" />
               <router-link to="/faq" rel="noreferrer" aria-label="link"
                 class="mr-6 google-font grey--text text--darken-3"

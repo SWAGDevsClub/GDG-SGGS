@@ -8,7 +8,7 @@
       class="pa-0 my-0 row-border-white"
     >
       <v-col md="2" cols="3" class="text-right my-0 py-0">
-        <p style="font-size: 100%" class="mb-0 google-font">
+        <p style="font-size: 90%" class="mb-0 google-font">
           {{ item.Month }}
         </p>
         <p style="font-size: 70%" class="ma-0 google-font text-secondary">

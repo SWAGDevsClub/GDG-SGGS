@@ -1,10 +1,10 @@
 {
-  "communityName": "GDG on Campus SGGS",
+  "communityName": "GDG on Campus SGGSIE&T",
   "communityLocation": {
     "country": "India",
     "city": "Nanded"
   },
-  "communityDescription": "GDG on Campus SGGS is a student-led community focused on empowering and connecting developers through Google technologies. We provide opportunities for learning, networking, and hands-on workshops to foster innovation and growth in the tech ecosystem",
+  "communityDescription": "GDG on Campus SGGSIE&T is a student-led community focused on empowering and connecting developers through Google technologies. We provide opportunities for learning, networking, and hands-on workshops to foster innovation and growth in the tech ecosystem",
   "communityLinks": { 
     "page": "https://gdg.community.dev/gdg-on-campus-shri-guru-gobind-singhji-institute-of-engineering-and-technology-nanded-india/",
     "website": "https://gdg.community.dev/gdg-on-campus-shri-guru-gobind-singhji-institute-of-engineering-and-technology-nanded-india/",
@@ -57,7 +57,7 @@
     "date": "Nov 16, 2024",
     "time": "9 AM - 5 PM IST",
     "venue": {
-      "address": "SGGS-Nanded",
+      "address": "SGGSIE&T-Nanded",
       "map_link": "https://maps.app.goo.gl/3vTjgroZEGWCfLxc7"
     },
     "registeration": {
