@@ -15,7 +15,24 @@
       "web": "https://gajanan.click/"
     },
     "type": "Core"
-},
+  },
+  {
+    "id": "007",
+    "name": "Sushil Bhoybar",
+    "company": {
+      "name": "GDG on Campus SGGSIE&T",
+      "designation": "Co-organiser"
+    },
+    "image": "sushil.jpg",
+    "bio": "I am Sushil Bhoybar, a final-year Computer Science Engineering student at SGGSIE&T, Nanded, and a Co-organiser at GDG on Campus. I specialize in organizing and managing hackathons, workshops, and technical events. My passion lies in exploring technologies like AI, cloud computing, and cybersecurity. Through my involvement with GDG and other developer communities, I strive to foster innovation, inspire creativity, and create impactful projects.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/sushil-bhoybar-59658b257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "twitter": "",
+      "github": "https://github.com/Sushbhoybar",
+      "web": ""
+    },
+    "type": "Core"
+  },
   {
     "id": "6002",
     "name": "Vikramaditya",
@@ -39,7 +56,7 @@
     "company": {
       "name": "GDG on Campus SGGSIE&T",
       "designation": "Alumini Management Lead"
-    },  
+    },
     "image": "noman.JPG",
     "bio": "I'm Sandali singh, a Software Developer, fueled by curiosity and driven by innovation,with a passion for full-stack development. Equipped with a solid foundation in computer science and hands-on experience in various programming languages and technologies, I am eager to embark on my journey as a full-stack developer. My academic background has honed my problem-solving skills and instilled in me a keen attention to detail, both of which are essential traits in the world of software development. With a strong desire to learn and grow in this dynamic field, I am excited to contribute my creativity and technical expertise to building innovative and user-friendly solutions.",
     "social": {
@@ -68,7 +85,7 @@
     "type": "Core"
   },
   {
-    "id":"6005",
+    "id": "6005",
     "name": "Adnan",
     "company": {
       "name": "GDG on Campus SGGSIE&T",
@@ -84,9 +101,8 @@
     },
     "type": "Core"
   },
-
   {
-    "id":"6007",
+    "id": "6007",
     "name": "Hanmant",
     "company": {
       "name": "GDG on Campus SGGSIE&T",
@@ -100,16 +116,16 @@
       "github": "https://github.com/harry-the-captain",
       "web": ""
     },
-    "type":"Core"
+    "type": "Core"
   },
   {
-    "id":"6008",
+    "id": "6008",
     "name": "Asmi Shetty",
     "company": {
       "name": "GDG on Campus SGGSIE&T",
       "designation": "Content Co-Lead"
     },
-    "image": "vrijraj.jpg",
+    "image": "asmi.jpg",
     "bio": "I’m Asmi, I’m a curious and passionate developer who loves technology and innovation. I enjoy figuring out how things work, building cool projects, and tackling tough problems. Whether it’s web development, programming, or diving into machine learning, I’m always excited to learn and explore new ideas. For me, coding isn’t just something I do—it’s something I genuinely enjoy. My goal is to create meaningful solutions, inspire others, and make a real impact through technology.",
     "social": {
       "linkedin": "https://www.linkedin.com/in/asmi-shetty?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
@@ -119,9 +135,8 @@
     },
     "type": "Core"
   },
- 
   {
-    "id":"6006",
+    "id": "6006",
     "name": "Yash",
     "company": {
       "name": "GDG on Campus SGGSIE&T",
@@ -138,7 +153,7 @@
     "type": "Core"
   },
   {
-    "id":6009,
+    "id": 6009,
     "name": " Khushwant",
     "company": {
       "name": "GDG on Campus SGGSIE&T",
@@ -155,19 +170,19 @@
   },
   {
     "id": "6002",
-  "name": "Yash",
-  "company": {
-    "name": "GDG on Campus SGGSIE&T",
-    "designation": "Member"
-  },
-  "image": "yashfy.jpeg",
-  "bio": "Yash Mhasagar is a first-year engineering student with a passion for innovation and problem-solving. With a keen interest in technology, Yash excels in learning and implementing new concepts, particularly in programming and embedded systems. In addition to his technical pursuits, he is involved in organizing coding events such as Google Solutions HackFusion, demonstrating his community-building skills. Yash’s vision is to grow as a developer. When not immersed in academics, he enjoys exploring gaming and nurturing his curiosity for innovative ideas.",
-  "social": {
-    "linkedin": "https://www.linkedin.com/in/yash-mhasagar-046983331/",
-    "twitter": "https://x.com/eyepatchxy",
-    "github": "https://github.com/Eyepatchxy",
-    "web": ""
-  },
-  "type": "Core"
+    "name": "Yash",
+    "company": {
+      "name": "GDG on Campus SGGSIE&T",
+      "designation": "Member"
+    },
+    "image": "yashfy.jpeg",
+    "bio": "Yash Mhasagar is a first-year engineering student with a passion for innovation and problem-solving. With a keen interest in technology, Yash excels in learning and implementing new concepts, particularly in programming and embedded systems. In addition to his technical pursuits, he is involved in organizing coding events such as Google Solutions HackFusion, demonstrating his community-building skills. Yash’s vision is to grow as a developer. When not immersed in academics, he enjoys exploring gaming and nurturing his curiosity for innovative ideas.",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/yash-mhasagar-046983331/",
+      "twitter": "https://x.com/eyepatchxy",
+      "github": "https://github.com/Eyepatchxy",
+      "web": ""
+    },
+    "type": "Core"
   }
 ]
