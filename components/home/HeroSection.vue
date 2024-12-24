@@ -2,12 +2,8 @@
   <v-container fluid class="">
     <v-row justify-center align="center">
       <v-col md="6" sm="6" cols="12">
-        <h1 class="responsive-h1 my-4" style="overflow-wrap: break-word;">
-          <p class="d-flex">
-            GDG
-          <h6 style="font-size: medium; color: cornflowerblue;" class="mt-2 ms-2">On-Campus</h6>
-          </p>
-          SGGSIE&T-Nanded
+        <h1 class="responsive my-4" style="overflow-wrap: break-word;">
+          GDG on Campus SGGSIE&T
         </h1>
 
         <p class="" :style="{ maxWidth: '90%' }">
