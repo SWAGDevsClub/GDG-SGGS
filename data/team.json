@@ -85,6 +85,23 @@
     "type": "Core"
   },
   {
+    "id": "3110",
+    "name": "Jaykumar",
+    "company": {
+      "name": "GDG on Campus SGGSIE&T",
+      "designation": "App Lead"
+    },
+    "image": "Jay.jpg",
+    "bio": "I’m Jaykumar, a developer who loves computers and technology. I enjoy learning how things work, handling computers, and building amazing projects. I don’t focus on just one field—I like working on everything, from coding apps and solving problems to exploring new tools and ideas.  My goal is to become the greatest developer and create something truly impactful. For me, technology is not just work; it’s my passion. Aiming to lead, inspire, and drive transformative change.",
+    "social": {
+      "linkedin": "www.linkedin.com/in/jaykumar-gupta-aba7312a7",
+      "twitter": "",
+      "github": "https://github.com/Jay93220022",
+      "web": ""
+    },
+    "type": "Core"
+  },
+  {
     "id": "6005",
     "name": "Adnan",
     "company": {
@@ -106,7 +123,7 @@
     "name": "Hanmant",
     "company": {
       "name": "GDG on Campus SGGSIE&T",
-      "designation": "Event Head"
+      "designation": "Event Lead"
     },
     "image": "harry.jpeg",
     "bio": "I do code so, I'm a Coder. Programming for me is more than just writing lines of code—it's about building impactful solutions, innovating processes, and crafting experiences that make a difference. Every day, I code with purpose, curiosity, and a vision to leave my mark on the ever-evolving tech landscape.",
@@ -157,7 +174,7 @@
     "name": " Khushwant",
     "company": {
       "name": "GDG on Campus SGGSIE&T",
-      "designation": "GDG Member"
+      "designation": " Member"
     },
     "image": "happy.jpg",
     "bio": "I am Khushwant Singh Mahajan, a passionate web developer and tech enthusiast from Shri Guru Gobind Singhji Institute of Engineering and Technology. With a knack for creating dynamic and user-friendly websites, Khushwant combines creativity with technical expertise. As a member of the SWAG and GDG clubs, he actively contributes to organizing workshops and events on cutting-edge technologies. Dedicated to continuous learning, he constantly explores new trends in web and app development.",

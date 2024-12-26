@@ -7,7 +7,7 @@
         class="text-center image-container"
         
       >
-        <v-img alt="frame" class="frame" src="/assets/img/frame.png" ></v-img>
+        <v-img alt="frame"  class="frame" src="/assets/img/frame.png" ></v-img>
         <v-img
           class="avatar"
           aspect-ratio="1"
@@ -20,7 +20,7 @@
           "
         ></v-img>
         <h3 class="mt-n1">{{ props.data.name }}</h3>
-        <p style="font-size: 90%">{{ props.data.company.name }}</p>
+        <p style="font-size: 90%">{{ props.data.company.designation }}</p>
       </div>
     </template>
 
